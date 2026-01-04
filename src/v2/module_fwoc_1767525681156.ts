@@ -1,0 +1,1 @@
+const util_fwoc = (d: any) => d;
